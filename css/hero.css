@@ -130,6 +130,10 @@
         padding: 0;
         height: 60rem;
     }
+    .hero__block {
+        width: 50%;
+        margin: 0 auto;
+    }
 }
 @media screen and (min-width: 1440px)  {
     .hero__sub-wrapper-main {
@@ -175,6 +179,9 @@
         padding: 30rem 0 20rem;
     }
     .hero .text {
+        margin-left: 0;
+    }
+    .hero__block {
         margin-left: 0;
     }
   
